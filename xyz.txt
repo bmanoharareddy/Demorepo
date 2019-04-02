@@ -1,0 +1,21 @@
+
+Select default items to show	Name	Status	Manufacturer	Inventory number	Location	Type	Model	Serial Number	Last update	User	Alternate username	Warranty expiration date	ID
+	Access Control 1	IN USE	Spectra	IDX/BLR/DEV/CTRL/SPC/2	Idexcel BLR > Server Room	Access Controller	ACT1000+	01113253	2011-07-25 12:35			2014-03-01	42
+	Access Control 2	IN USE	Spectra	IDX/BLR/DEV/CTRL/SPE/1	Idexcel BLR > Server Room	Access Controller	ACT1000+	12102968	2011-07-25 12:35			2014-03-01	43
+	Access Control 3	IN USE	Spectra	IDX/BLR/DEV/CTRL/SPE/3	Idexcel BLR > Server Room	Access Controller	ACT1000+	01113251	2011-07-19 18:55			2014-03-01	44
+	Apple Tablet	STOCK	APPLE	IDX/BLR/DEV/TAB/APL/001	Idexcel BLR > Server Room		A 1460	F6PNT027F18P	2018-07-03 07:43			 	77
+	Camara	IN USE	Canon	IDX/BLR/DEV/CAM/CAN/001	Idexcel BLR > First Floor North	Camara	Power Shot SX10IS	7148308163	2011-08-08 10:56		IS team	 	47
+	CCTV Power Supply	IN USE	EAGLE	IDX/BLR/DEV/PS/EAG/001	Idexcel BLR > Server Room	CCTV Power Supply			2011-08-08 12:06			 	48
+	Client Place	IN USE	Vonage	IDX/BLR/DEV/IPP/VON/003	Idexcel BLR > Fourth Floor North	Softphone	VDV21-VD	97BSVDV215801B60	2012-01-06 11:39			2011-05-11	7
+	Conf Old	IN USE	Iball	IDX/BLR/DEV/MIC/IBL/01	Idexcel BLR > Ground Floor North	MIC	M27	1500023028086	2015-09-02 06:58			 	111
+	Conf room new	IN USE	Logitech	IDX/BLR/DEV/WEB/LOG/001	Idexcel BLR > Ground Floor South	Webcam	C210	9785507032	2017-07-01 13:27			 	66
+	Conf room new	IN USE	EPSON	IDX/BLR/DEV/PRO/ESN/01	Idexcel BLR > Ground Floor South	Projector	H555C	TVNK4300034	2017-07-01 13:24			 	76
+	Conf room new	IN USE	Iball	IDX/BLR/DEV/MIC/IBL/02	Idexcel BLR > Ground Floor South	MIC	M27	1500023027285	2017-07-01 13:26			 	112
+	Conf room old	IN USE	DELL	IDX/BLR/DEV/SPK/DELL/001	Idexcel BLR > Ground Floor South	Speaker	AX210	CN0R126K4822007K04GS	2017-07-01 13:29			 	49
+	Conf room old	IN USE	EPSON	IDX/BLR/DEV/PRO/ESN/02	Idexcel BLR > Ground Floor South	Projector	EB X29	VTZK6100559	2017-07-01 13:24			 	135
+	Conf-new	IN USE	CREATIVE	IDX/BLR/DEV/SPK/CRE/001	Idexcel BLR > Ground Floor South	Speaker	SBS A35	YKMF1630130R06345E	2011-12-09 17:17			 	55
+	Conference room	IN USE	Vonage	IDX/BLR/DEV/IPP/VON/001	Idexcel BLR > Ground Floor South	Softphone		97BSVDV215802426	2011-07-19 19:19			2011-05-11	9
+	Damaged	DAMAGED	TATA Docomo 3G	IDX/BLR/DEV/DC/003		DATA Card	MF 190	869615018989819	2016-09-07 08:19			 	69
+	Dell Laptop Battery	IN USE	DELL			Battery	E5410	81223203TY03AQA	2018-01-03 06:35			 	84
+	Dell Laptop Battery	STOCK	DELL		Idexcel BLR > Server Room	Battery	E5410	81223203TY03AQJ	2019-02-14 08:10	R Manjusha		 	85
+	Dell Laptop Battery	STOCK	DELL		Idexcel BLR > Second Floor South	Battery	E5410	81223203TY03AQ5	2018
